@@ -1,5 +1,5 @@
 import java.util.*;
-class revstr{
+class username{
     public static void main(String[] args){
         Scanner input=new Scanner(System.in);
         System.out.print("Enter the user name: ");
